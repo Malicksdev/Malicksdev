@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Malicksdev
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in web and mobile app development with Flutter 💙
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ... malicksdev@gmail.com
 
